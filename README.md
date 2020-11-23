@@ -48,5 +48,9 @@
 
 * 3 Main Environments:
 	* Dev
+		* Should mirror the testing and production environments
 	* Testing
 	* Deployment/Live
+
+## Virtual Machines (VM) and Vagrant
+
